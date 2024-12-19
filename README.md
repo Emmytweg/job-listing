@@ -1,6 +1,7 @@
 # Frontend Mentor - Job listings with filtering
 
-![Design preview for the Job listings with filtering coding challenge](./design/desktop-preview.jpg)
+![image](https://github.com/user-attachments/assets/52ed4f26-5d91-4fa2-a5b3-897d1ab7871a)
+
 
 ## Welcome! 👋
 
