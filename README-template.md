@@ -44,7 +44,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 ### Links
 
 - Solution URL:[(https://your-solution-url.com)](http://127.0.0.1:5501/myHTML.html)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [[Add live site URL here](https://your-live-site-url.com)](https://emmytweg.github.io/job-listing/)
 
 ## My process
 
